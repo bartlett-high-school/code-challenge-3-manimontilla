@@ -1,1 +1,5 @@
 /* Put your css here for your table and page styling */
+table {
+  background-color: #f1f1c1;
+  width: 100%;
+}
